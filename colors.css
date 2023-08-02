@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "font";
+    src: url(font.woff);
+}
+
+:root {
+    --main-background-color: #161616;
+    --main-foreground-color: #ffffff;
+}
