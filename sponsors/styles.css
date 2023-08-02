@@ -26,6 +26,7 @@ img {
     letter-spacing: 0.08em;
     width: min(48vw, 50vh);
     font-size: 0.9em;
+    margin-left: 1vw;
 }
 
 @media screen and (max-width: 512px) {
